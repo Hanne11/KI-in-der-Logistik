@@ -1,2 +1,4 @@
 # KI-in-der-Logistik
-Uni Projekt im Modul KI in der Logistik
+This project was created for the AI seminar at the University of Duisburg Essen. 
+In this project, Python is used to generate a random number between 1 and 100 that the user has to guess. The program gives the user feedback on whether his guess was too high or too low and counts the number of tries it took the user to find the correct answer.
+First, the user starts the program by assigning a username. Then the user can start the game by pressing "Start" and entering a number. The program checks if the input is a number between 0 and 100, and if not, it gives a hint. After entering the number, the user gets the information if the number was too high or too low and if he was already very close and can guess again. The program ends when the user enters "exit" or guesses the correct number. He can then start a new round. After each round, the information about the correct number, the number of attempts and the best attempt so far is given.
